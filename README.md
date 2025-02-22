@@ -4,7 +4,7 @@
 
 Create a .env file and add a repo and Gemini API key:
 
-Here is where to get your own [api key](https://aistudio.google.com/app/apikey)
+Here is where to get your own [api key](https://aistudio.google.com/app/apikey) (free for the basic model)
 
 Go to any GitHub repo and copy the URL to get the link EX: [https://github.com/aidankeighron/talk-to-code]([https://aistudio.google.com/app/apikey](https://github.com/aidankeighron/talk-to-code))
 
