@@ -1,4 +1,4 @@
-# talk to code
+# Talk to Code With AI!
  
 ## Use
 
