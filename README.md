@@ -15,6 +15,6 @@ GITHUB_REPO=https://github.com/aidankeighron/alchemy
 GEMINI_API_KEY=SUPERCOOLAPIKEY
 ```
 
-You can edit the `QUESTION` variable in `main.py` to ask the AI a question
+Run `main.py` to ask the AI a question
 
 **Feel free to create a pull request to add a new feature**
