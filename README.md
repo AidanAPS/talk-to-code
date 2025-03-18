@@ -17,4 +17,6 @@ GEMINI_API_KEY=SUPERCOOLAPIKEY
 
 Run `main.py` to ask the AI a question
 
+Answer is outputted to `output.md` (in VS Code you can right-click on the file and select "Open Preview" to render the markdown)
+
 **Feel free to create a pull request to add a new feature**
